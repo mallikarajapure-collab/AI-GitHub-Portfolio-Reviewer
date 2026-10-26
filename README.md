@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,45:5B21B6,100:2563EB&height=210&section=header&text=SMART%20GIT%20SCAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20GitHub%20Portfolio%20Reviewer&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0891B2,100:67E8F9&height=210&section=header&text=SMART%20GIT%20SCAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20GitHub%20Portfolio%20Reviewer&descAlignY=60&descSize=16" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white" />
