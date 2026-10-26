@@ -1,63 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,50:0891B2,100:67E8F9&height=210&section=header&text=SMART%20GIT%20SCAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20GitHub%20Portfolio%20Reviewer&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:164E63,45:0E7490,100:67E8F9&height=220&section=header&text=SMART%20GIT%20SCAN&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=AI%20GitHub%20Portfolio%20Reviewer&descAlignY=60&descSize=15" width="100%" alt="Cyan portfolio reviewer header" />
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript%20%2F%20TypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Understand your GitHub presence. Discover opportunities to improve it.**
+<img src="https://img.shields.io/badge/GitHub%20REST%20API-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub REST API" />
+<img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/Portfolio%20Insights-0891B2?style=for-the-badge" alt="Portfolio insights" />
 
 </div>
 
 ---
 
-## 🌌 Overview
+## 🌐 Overview
 
-**Smart Git Scan — AI GitHub Portfolio Reviewer** is a portfolio-analysis project designed to help students and developers review their GitHub presence and identify practical ways to improve it. It combines GitHub profile data with Gemini-powered feedback.
+**Smart Git Scan — AI GitHub Portfolio Reviewer** is a project concept for helping developers inspect public GitHub profile and repository signals, review documentation quality, identify technology signals, and receive improvement suggestions.
 
-## ✨ Project Goals
+This repository contains a README and a project-description file. The runnable web application is maintained separately in the [smart-git-scan repository](https://github.com/mallikarajapure-collab/smart-git-scan).
 
-- 🔍 Review GitHub profile and repository information
-- 📂 Surface repository-level portfolio insights
-- 🛠️ Identify technologies and potential skill signals
-- 📊 Provide AI-generated portfolio feedback
-- 💡 Suggest improvements to make a portfolio clearer and more recruiter-friendly
-- 📈 Offer guidance for continued developer growth
+## ✨ Intended Capabilities
 
-> The quality of AI-generated feedback depends on the available GitHub data and model output. Treat recommendations as guidance, not as a definitive hiring score.
+- Review public profile and repository metadata.
+- Surface documentation and repository-quality signals.
+- Identify technologies from repository information.
+- Produce a portfolio score and improvement suggestions with generative AI.
 
-## 🧰 Technology
+Actual features and setup steps depend on the linked implementation repository.
 
-| Technology | Role |
-|---|---|
-| GitHub API | Retrieve public profile and repository information |
-| Gemini API | Generate portfolio feedback |
-| JavaScript / TypeScript | Project development |
-| React / web UI | User interface direction described by the project |
+## 🧠 Technology Direction
 
-## 🚀 Getting Started
+The project description references the GitHub API, Gemini, and a modern JavaScript/TypeScript web interface. See the implementation repository for the current, verified framework and configuration.
 
-The repository currently contains a project overview and a nested project artifact. Setup instructions may depend on the runnable application files and configuration available in that project artifact. Review the repository contents before installing dependencies or launching the app.
+## 🚀 Try the Implementation
 
-## 🗺️ Potential Next Steps
+Visit the [Smart Git Scan repository](https://github.com/mallikarajapure-collab/smart-git-scan) for its source code and current installation instructions.
 
-- Add screenshots of the working interface
-- Document the exact setup and environment variables used by the current implementation
-- Include example input/output with private tokens removed
-- Add tests for GitHub API errors and AI fallback behavior
+## ⚠️ Important Notes
 
-## 👩‍💻 Author
-
-**Mallika Rajapure**  
-MCA student focused on Python, AI/ML, and software development.
+- Portfolio scores are heuristic feedback, not hiring decisions or objective measures of developer ability.
+- Only public GitHub information should be evaluated unless an explicit, secure authorization flow is implemented.
+- AI-generated suggestions can be incomplete and should be reviewed before acting on them.
 
 ---
 
-<div align="center">
-
-*Built to make GitHub portfolio improvement more understandable and actionable.*
-
-</div>
+<div align="center"><sub>Developer portfolios • Repository documentation • AI-assisted feedback</sub></div>
